@@ -1,1 +1,1 @@
-# global-plastic-pollution
+# Global-Plastic-Pollution
